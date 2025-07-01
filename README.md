@@ -22,7 +22,7 @@ ChromaDB is utilized in this project for storing and querying movie embeddings.
 ### Installation
 1. Clone the repository:
 ```bash
-git clone <https://github.com/firatyll/movie-recommendation.gitl>
+git clone https://github.com/firatyll/movie-recommendation.git
 cd chromadb-vector
 ```
 
